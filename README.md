@@ -1,7 +1,10 @@
 # Exercise04a-StateMachines
+2/26/24
 
 ## Implementation
-Which features you included.
+* Jumping animation when space key pressed
+* Walking animation when a or d pressed
+* Idle animation when no key input
 
 ## References
 
@@ -10,6 +13,7 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
+tile maps and levels
 
 ## Created by
-Nathan Mishler
+Marlena Ames
